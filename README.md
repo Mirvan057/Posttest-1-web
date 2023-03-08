@@ -16,7 +16,7 @@ yaitu halaman utama untuk menampilkan header, navbar dan main content seperti ga
 
 yaitu halaman yg menampilkan konten mengenai Escape Artist
 
-3. alaman service
+3. halaman service
 
 menampilkan konten berupa layanan apa saja yang ditawarkan
 
